@@ -1,0 +1,29 @@
+/* body {
+  font-family: 'Bitter', serif;
+} */
+
+
+
+@media (max-width:1024px) {
+  .normal-face {
+    font-size: 3.75rem;
+    line-height: 1;
+  }
+}
+
+.bitter {
+  font-family: 'Bitter', serif;
+  font-weight: normal;
+}
+
+.normal {
+  font-weight: 400;
+}
+
+.thick {
+  font-weight: 700;
+}
+
+.thin {
+  font-weight: 100;
+}
